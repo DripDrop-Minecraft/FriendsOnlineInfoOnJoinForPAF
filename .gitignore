@@ -1,4 +1,7 @@
 /target/
 /.idea/
+/.gradle/
+/build/
+/pom.xml
 FriendsOnlineInfoOnJoinForPAF.iml
 .DS_STORE

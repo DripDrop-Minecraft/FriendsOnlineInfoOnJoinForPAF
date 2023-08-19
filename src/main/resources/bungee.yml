@@ -1,6 +1,6 @@
-name: Friends-Online-Info-On-Join-For-PAF
+name: Friends-Online-Info-On-Join-For-PAF_DripDrop
 version: ${project.version}
-author: Simonsator
+author: Simonsator, DripDrop
 depends: [PartyAndFriends]
 main: de.simonsator.partyandfriends.extensions.foijoj.FOIOJPlugin
-description: Shows all your online friends when you are joining
+description: Shows all your online friends when you are joining, based on original project and customized for DripDrop.
